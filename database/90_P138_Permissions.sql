@@ -1,0 +1,2 @@
+-- P138 V0.001: No database objects exist; NO-OP by design.
+-- Do not change shared Supabase permissions in this release.

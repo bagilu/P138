@@ -1,0 +1,29 @@
+{
+  "name": "P138 我是大廚 — I'm the Chef",
+  "short_name": "我是大廚",
+  "description": "互動烹飪模擬遊戲",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#f46e43",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+-- P138 V0.001: database NOT ENABLED. No catalog checks apply.
+-- Future versions must implement read-only project-scoped catalog checks.
