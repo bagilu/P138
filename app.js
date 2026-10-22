@@ -1,5 +1,5 @@
 'use strict';
-// P138 V0.004 — locally simulated cooking only; not validated food-safety advice.
+// P138 V0.005 — locally simulated cooking only; not validated food-safety advice.
 const $=id=>document.getElementById(id);
 const recipes={
  fried:{title:'完美荷包蛋',desc:'掌握油量、火候與時間，把美味親手端上桌。',zh:'單面煎荷包蛋',en:'Sunny-side-up egg',emoji:'🍳',oil:[3,8],dropTemp:[130,170],steps:['開櫃備料並將平底鍋放上爐','加入沙拉油（3–8 mL）','設定火力並預熱鍋子','打入雞蛋（建議 130–170°C）','控制蛋白與蛋黃熟度','用鍋鏟盛盤，完成料理']},
